@@ -1,6 +1,5 @@
 # AdjustablePowerSupply_Proteus
-There are made adjustable power supply and PCB design in this project
-Adjustable Power Supply 
+There are made adjustable power supply and PCB design in this project.
 DC signals are generally preferred to run electrical circuits.Also dc signals generally run low voltage values for this reason voltage values of ac signals are reduced to more low values.
 This transaction are made use transformator. AC signals continue to come at the transformer output.
 Diodes are using for convert the AC signals to DC signals.Becasuse,diodes are pass current one direction.
