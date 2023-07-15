@@ -16,7 +16,10 @@ AC TO DC
 ![AC-DC](https://github.com/huseyinbali/AdjustablePowerSupply_Proteus/assets/137905457/9aff36dd-e59e-4931-a551-29e2f4e2d7c3)
 
 SCHEMATIC CAPTURE
+POT:15V
+![scheaticcapture15v](https://github.com/huseyinbali/AdjustablePowerSupply_Proteus/assets/137905457/c052ac71-4f87-49ba-8f86-0b7c320d49b1)
 
+POT:0V
 ![schematic_capture](https://github.com/huseyinbali/AdjustablePowerSupply_Proteus/assets/137905457/5bdccbf0-31ac-43d9-8565-3c3fcb95bfba)
 
 PCB DESIGN
